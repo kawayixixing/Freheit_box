@@ -11,6 +11,7 @@ html {
 	border: 5px solid rebeccapurple;
 	background-color: lightblue;
 	font-size: 20px;
+	list-style: none;
 	background-image: url(img/01.png), url(img/02.png);
 	background-repeat: no-repeat;
 	background-position: 0 0, right 0;
@@ -23,6 +24,7 @@ html {
 	border: 5px solid green;
 	background-color: lightyellow;
 	font-size: 20px;
+	list-style: none;
 	background-image: url(img/05.png), url(img/06.png);
 	background-repeat: no-repeat;
 	background-position: 0 0, right 0;
@@ -36,6 +38,7 @@ html {
 	border: 5px solid #ffbd33;
 	background-color: hsla(321, 47%, 57%, .7);
 	font-size: 20px;
+	list-style: none;
 	background-image: url(img/03.png), url(img/04.png);
 	background-repeat: no-repeat;
 	background-position: 0 0, right 0;
