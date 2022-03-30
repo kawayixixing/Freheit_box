@@ -1,0 +1,44 @@
+html {
+	font-size: 16px;
+	text-align: center;
+	width: auto;
+}
+
+.tan {
+	width: auto;
+	padding: 1em;
+	border-radius: .5em;
+	border: 5px solid rebeccapurple;
+	background-color: lightblue;
+	font-size: 20px;
+	background-image: url(img/01.png), url(img/02.png);
+	background-repeat: no-repeat;
+	background-position: 0 0, right 0;
+}
+
+.ken {
+	width: auto;
+	padding: 1em;
+	border-radius: .5em;
+	border: 5px solid green;
+	background-color: lightyellow;
+	font-size: 20px;
+	background-image: url(img/05.png), url(img/06.png);
+	background-repeat: no-repeat;
+	background-position: 0 0, right 0;
+
+}
+
+.ori {
+	width: auto;
+	padding: 1em;
+	border-radius: .5em;
+	border: 5px solid #ffbd33;
+	background-color: hsla(321, 47%, 57%, .7);
+	font-size: 20px;
+	background-image: url(img/03.png), url(img/04.png);
+	background-repeat: no-repeat;
+	background-position: 0 0, right 0;
+
+}
+
